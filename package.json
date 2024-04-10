@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Soumaya-MAIF/Developpement_d-une_API_pour_le_R-seau_Social/issues"
   },
-  "homepage": "https://github.com/Soumaya-MAIF/Developpement_d-une_API_pour_le_R-seau_Social#readme"
+  "homepage": "https://github.com/Soumaya-MAIF/Developpement_d-une_API_pour_le_R-seau_Social#readme",
+  "dependencies": {
+    "pg": "^8.11.5"
+  }
 }
