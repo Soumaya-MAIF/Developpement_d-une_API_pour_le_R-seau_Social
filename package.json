@@ -1,0 +1,22 @@
+{
+  "name": "developpement_d-une_api_pour_le_r-seau_social",
+  "version": "1.0.0",
+  "description": "Une API pour l'authentification d'un utilisateur",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "dev": "nodemon src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soumaya-MAIF/Developpement_d-une_API_pour_le_R-seau_Social.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soumaya-MAIF/Developpement_d-une_API_pour_le_R-seau_Social/issues"
+  },
+  "homepage": "https://github.com/Soumaya-MAIF/Developpement_d-une_API_pour_le_R-seau_Social#readme"
+}
